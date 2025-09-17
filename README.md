@@ -18,7 +18,8 @@ _ _ _ - - -   Round 2
 _ _ _ _ - -   Round 8
 _ _ _ _ _ -   Round 9
 - _ _ _ _ _   Round 10
-_ _ _ _ _ _   Round 11```
+_ _ _ _ _ _   Round 11
+```
 
 Each of you guesses must be a word in the dictionary (defined as the words in the various json files attached).
 On round 11 you have a chance to guess the entire secret word, and if you get it right you get a bonus 3000 points.
