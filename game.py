@@ -81,7 +81,7 @@ def checkGuess(code, guess):
 
 def printTurn(round, guesses, scores):
     time.sleep(1)
-    print(f"----Round {round}----")
+    print(f"\n\n----Round {round}----")
     time.sleep(1)
     print("Secret Word:\n______\n")
     if round == 1 :
